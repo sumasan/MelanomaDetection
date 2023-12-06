@@ -7,13 +7,16 @@ To build a CNN based model which can accurately detect melanoma. Melanoma is a t
 ## General Information
 
 - What is the background of your project?
-  This Upgrad assignment project, to apply CNN concept learnt. 
+
+  	This is Upgrad assignment project, to apply CNN concept learnt. 
 
 - What is the business problem that your project is trying to solve?
-  To build a CNN based model which can accurately detect melanoma
+
+	To build a CNN based model which can accurately detect melanoma
 
 - What is the dataset that is being used?
-  This assignment uses a dataset of about 2357 images of skin cancer types. The dataset contains 9 sub-directories in each train and test subdirectories. The 9 sub-directories contains the images of 9 skin cancer types respectively.
+
+  	This assignment uses a dataset of about 2357 images of skin cancer types. The dataset contains 9 sub-directories in each train and test subdirectories. The 9 sub-directories contains the images of 9 skin cancer types respectively.
 
 
  
